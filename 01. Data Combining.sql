@@ -1,4 +1,4 @@
--- Data Combining
+-- Data Combining Stage
 
 DROP TABLE IF EXISTS `2022_tripdata.combined_data`;
 
