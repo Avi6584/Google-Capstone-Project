@@ -91,3 +91,21 @@ To further understand the differences in casual and member riders, locations of 
 
 Casual riders have frequently started their trips from the stations in vicinity of museums, parks, beach, harbor points and aquarium while members have begun their journeys from stations close to universities, residential areas, restaurants, hospitals, grocery stores, theatre, schools, banks, factories, train stations, parks and plazas.
 
+![Screenshot 2023-07-22 194949](https://github.com/Avi6584/Google-Capstone-Project/assets/89294923/ec8a4469-2fb7-40f1-964b-810d8ef20350)
+
+Similar trend can be observed in ending station locations. Casual riders end their journay near parks, museums and other recreational sites whereas members end their trips close to universities, residential and commmercial areas. So this proves that casual riders use bikes for leisure activities while members extensively rely on them for daily commute.
+
+Summary:
+
+|Casual|Member|
+|------|------|
+|Prefer using bikes throughout the day, more frequently over the weekends in summer and spring for leisure activities.|Prefer riding bikes on week days during commute hours (8 am / 5pm) in summer and spring.|
+|Travel 2 times longer but less frequently than members.|Travel more frequently but shorter rides (approximately half of casual riders' trip duration).|
+|Start and end their journeys near parks, museums, along the coast and other recreational sites.|Start and end their trips close to universities, residential and commercial areas.|
+
+## Act
+After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.  
+Recommendations:  
+1. Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
+2. Casual riders are most active on weekends and during the summer and spring, thus they may be offered seasonal or weekend-only memberships.
+3. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
