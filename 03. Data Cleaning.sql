@@ -1,8 +1,8 @@
--- Data Cleaning
+-- Data Cleaning Stage
 
 DROP TABLE IF EXISTS `2022_tripdata.cleaned_combined_data`;
 
--- creating new table with clean data
+-- creating a new table with clean data
 
 CREATE TABLE IF NOT EXISTS `2022_tripdata.cleaned_combined_data` AS (
   SELECT 
