@@ -1,6 +1,6 @@
--- Data Exploration
+-- Data Exploration Stage
 
--- checking the data types of all columns
+-- checking the datatypes of all columns
 
 SELECT column_name, data_type
 FROM `2022_tripdata`.INFORMATION_SCHEMA.COLUMNS
