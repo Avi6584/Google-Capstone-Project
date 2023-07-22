@@ -60,3 +60,14 @@ Data Visualization: [Tableau](https://public.tableau.com/app/profile/avinash.mat
 
 The data is stored appropriately and is now prepared for analysis. I have run queries on multiple relevant tables for the analysis and visualized them in Tableau.  
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
+
+First of all, member and casual riders are compared by the type of bikes they are using.
+
+![Screenshot 2023-07-22 194412](https://github.com/Avi6584/Google-Capstone-Project/assets/89294923/03098121-6182-43d5-a0b1-72e00743e597)
+
+The members make 59.7% of the total while remaining 40.3% constitutes casual riders. Each bike type chart shows percentage from the total. Most used bike is classic bike followed by the electric bike. Docked bikes are used the least by only casual riders.
+  
+Next the number of trips distributed by the months, days of the week and hours of the day are examined.
+
+![Screenshot 2023-07-22 201954](https://github.com/Avi6584/Google-Capstone-Project/assets/89294923/c3d18800-3106-4b7c-b44b-6a3730868d1b)
+
